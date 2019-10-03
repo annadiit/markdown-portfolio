@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**We grow because we struggle, we learn and overcome.**
+_If there is no Struggle, there is no progress._
